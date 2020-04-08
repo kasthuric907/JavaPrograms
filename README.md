@@ -4,7 +4,6 @@ It also arranges the various routes possible in non-decreasing order of paths.
 
 
 Input format:
-
 5     //no of routes as input
 Delhi  Pune   160
 Nagpur  Chennai  80
